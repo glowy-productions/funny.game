@@ -10,4 +10,5 @@ public class  main{
            // Ausgabe Hello World!
            System.out.println("Hello World!");
            System.out.println("plays");
+           System.out.println("EXIT");
        }}
