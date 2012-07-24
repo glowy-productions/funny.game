@@ -9,10 +9,9 @@ public class  main{
        }
      @SuppressWarnings("unused")
 	public static void rechne(String args[]){
-     int test = 5 + 4;
-     System.out.println("At work");
+      //that sections is momently unintersting, its only a test! :D
      }
-
+     
 
 
 
